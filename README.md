@@ -2,3 +2,9 @@ These extensions posted here are new and working: <a href="https://sites.google.
 
 ![image](https://github-readme-stats.vercel.app/api?username=bextdev) ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=bextdev)
 
+Languages I knew:
+Javascript
+CSS
+HTML
+Java
+Batch
