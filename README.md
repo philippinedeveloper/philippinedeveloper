@@ -12,4 +12,4 @@ Batch
 Achievements:
 1. Created Tall, Creator, Delivery & Digest for Rush/Fast Compilers ONLY.
 2. Created Rapu - Additional functions to DynamicComponents that includes tools for components, copying, dragging & dropping, listeners, getting parent & children, & getting list of components (could be done with my extension CZ).
-3. Created Flash - Extension compiler with some additions to the extension-template repository
+3. Created Laughing Broccoli - Extension compiler with some additions to the extension-template repository
