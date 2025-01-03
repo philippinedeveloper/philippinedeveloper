@@ -12,4 +12,3 @@ Batch
 Achievements:
 1. Created Tall, Creator, Delivery & Digest for Rush/Fast Compilers ONLY.
 2. Created Rapu - Additional functions to DynamicComponents that includes tools for components, copying, dragging & dropping, listeners, getting parent & children, & getting list of components (could be done with my extension CZ).
-3. Created SpecialEureka - A modified extension template
