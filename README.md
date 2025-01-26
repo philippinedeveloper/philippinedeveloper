@@ -14,4 +14,4 @@ Achievements:
    
 2. Created Warlock - A modified extension builder for all
    
-3. Created ExtensionOptimizer - Optimizes extensions.
+3. Created Extimize - Optimizes extensions.
